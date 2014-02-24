@@ -1,3 +1,4 @@
+package bigLab.demo;
 
 public class mainClass {
 
@@ -8,6 +9,7 @@ public class mainClass {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Hello world 1");
+		System.out.println("New code");
 	}
 
 }
